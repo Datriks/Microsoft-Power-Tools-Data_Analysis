@@ -1,0 +1,127 @@
+TerritoryID	Territory
+AFG	Afghanistan
+ALB	Albania
+APR	Aprine
+ARE	United Arab Emirates
+ARG	Argentina
+ARM	Armenia
+AUS	Australia
+AUT	Austria
+AZE	Azerbaijan
+BEL	Belgium
+BGD	Bangladesh
+BGR	Bulgaria
+BHR	Bahrain
+BHS	Bahamas
+BIH	Bosnia and Herzegovina
+BLZ	Belize
+BOL	"Bolivia, Plurinational State of"
+BRA	Brazil
+BRB	Barbados
+BRN	Brunei Darussalam
+BWA	Botswana
+CAN	Canada
+CHE	Switzerland
+CHL	Chile
+COL	Colombia
+CRI	Costa Rica
+CYP	Cyprus
+CZE	Czech Republic
+DEU	Germany
+DNK	Denmark
+DOM	Dominican Republic
+DZA	Algeria
+ECU	Ecuador
+EGY	Egypt
+ESP	Spain
+EST	Estonia
+ETH	Ethiopia
+FIN	Finland
+FJI	Fiji
+FRA	France
+GBR	United Kingdom
+GEO	Georgia
+GHA	Ghana
+GRC	Greece
+GTM	Guatemala
+GUM	Guam
+HKG	Hong Kong
+HND	Honduras
+HRV	Croatia
+HUN	Hungary
+IDN	Indonesia
+IND	India
+IRL	Ireland
+IRQ	Iraq
+ISL	Iceland
+ISR	Israel
+ITA	Italy
+JAM	Jamaica
+JOR	Jordan
+JPN	Japan
+KAZ	Kazakhstan
+KEN	Kenya
+KHM	Cambodia
+KOR	"Korea, Republic of"
+KWT	Kuwait
+LAO	Lao People's Democratic Republic
+LBN	Lebanon
+LKA	Sri Lanka
+LTU	Lithuania
+LUX	Luxembourg
+LVA	Latvia
+MAC	Macao
+MAR	Morocco
+MDA	"Moldova, Republic of"
+MDV	Maldives
+MEX	Mexico
+MKD	"Macedonia, the former Yugoslav Republic of"
+MLT	Malta
+MMR	Myanmar
+MNG	Mongolia
+MUS	Mauritius
+MYS	Malaysia
+NAM	Namibia
+NGA	Nigeria
+NLD	Netherlands
+NOR	Norway
+NPL	Nepal
+NZL	New Zealand
+OMN	Oman
+PAK	Pakistan
+PAN	Panama
+PER	Peru
+PHL	Philippines
+POL	Poland
+PRI	Puerto Rico
+PRT	Portugal
+PSE	"Palestine, State of"
+QAT	Qatar
+ROU	Romania
+RUS	Russian Federation
+RWA	Rwanda
+SAU	Saudi Arabia
+SDN	Sudan
+SGP	Singapore
+SLV	El Salvador
+SOM	Somalia
+SRB	Serbia
+SVK	Slovakia
+SVN	Slovenia
+SWE	Sweden
+SYR	Syrian Arab Republic
+THA	Thailand
+TTO	Trinidad and Tobago
+TUN	Tunisia
+TUR	Turkey
+TWN	"Taiwan, Province of China"
+TZA	"Tanzania, United Republic of"
+UGA	Uganda
+UKR	Ukraine
+UNR	Unkown Region
+USA	United States
+VEN	"Venezuela, Bolivarian Republic of"
+VNM	Viet Nam
+ZAF	South Africa
+ZMB	Zambia
+ZWE	Zimbabwe
